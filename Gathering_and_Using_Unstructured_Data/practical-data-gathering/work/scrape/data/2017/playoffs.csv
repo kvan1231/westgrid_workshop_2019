@@ -1,0 +1,88 @@
+visitor_team_name,visitor_goals,home_team_name,home_goals,overtimes,attendance,game_duration,game_remarks,date_game
+San Jose Sharks,3,Edmonton Oilers,2,OT,"18,347",2:40,,2017-04-12
+St. Louis Blues,2,Minnesota Wild,1,OT,"19,168",3:18,,2017-04-12
+New York Rangers,2,Montreal Canadiens,0,,"21,288",2:30,,2017-04-12
+Boston Bruins,2,Ottawa Senators,1,,"18,702",2:30,,2017-04-12
+Columbus Blue Jackets,1,Pittsburgh Penguins,3,,"18,563",2:37,,2017-04-12
+Calgary Flames,2,Anaheim Ducks,3,,"17,174",2:45,,2017-04-13
+Nashville Predators,1,Chicago Blackhawks,0,,"22,075",2:27,,2017-04-13
+Toronto Maple Leafs,2,Washington Capitals,3,OT,"18,506",3:02,,2017-04-13
+San Jose Sharks,0,Edmonton Oilers,2,,"18,347",2:25,,2017-04-14
+St. Louis Blues,2,Minnesota Wild,1,,"19,404",2:41,,2017-04-14
+New York Rangers,3,Montreal Canadiens,4,OT,"21,288",3:20,,2017-04-14
+Columbus Blue Jackets,1,Pittsburgh Penguins,4,,"18,622",2:33,,2017-04-14
+Calgary Flames,2,Anaheim Ducks,3,,"17,271",2:49,,2017-04-15
+Nashville Predators,5,Chicago Blackhawks,0,,"22,175",2:30,,2017-04-15
+Boston Bruins,3,Ottawa Senators,4,OT,"18,629",2:49,,2017-04-15
+Toronto Maple Leafs,4,Washington Capitals,3,2OT,"18,506",4:21,,2017-04-15
+Pittsburgh Penguins,5,Columbus Blue Jackets,4,OT,"19,092",3:10,,2017-04-16
+Montreal Canadiens,3,New York Rangers,1,,"18,006",2:31,,2017-04-16
+Edmonton Oilers,1,San Jose Sharks,0,,"17,562",2:16,,2017-04-16
+Minnesota Wild,1,St. Louis Blues,3,,"19,334",2:45,,2017-04-16
+Ottawa Senators,4,Boston Bruins,3,OT,"17,565",3:00,,2017-04-17
+Anaheim Ducks,5,Calgary Flames,4,OT,"19,289",3:04,,2017-04-17
+Chicago Blackhawks,2,Nashville Predators,3,OT,"17,204",4:23,,2017-04-17
+Washington Capitals,3,Toronto Maple Leafs,4,OT,"19,861",2:52,,2017-04-17
+Pittsburgh Penguins,4,Columbus Blue Jackets,5,,"19,093",2:27,,2017-04-18
+Montreal Canadiens,1,New York Rangers,2,,"18,006",2:37,,2017-04-18
+Edmonton Oilers,0,San Jose Sharks,7,,"17,562",2:31,,2017-04-18
+Ottawa Senators,1,Boston Bruins,0,,"17,565",2:33,,2017-04-19
+Anaheim Ducks,3,Calgary Flames,1,,"19,289",2:32,,2017-04-19
+Minnesota Wild,2,St. Louis Blues,0,,"19,791",2:38,,2017-04-19
+Washington Capitals,5,Toronto Maple Leafs,4,,"19,838",2:42,,2017-04-19
+San Jose Sharks,3,Edmonton Oilers,4,OT,"18,347",3:10,,2017-04-20
+New York Rangers,3,Montreal Canadiens,2,OT,"21,288",3:07,,2017-04-20
+Chicago Blackhawks,1,Nashville Predators,4,,"17,326",2:31,,2017-04-20
+Columbus Blue Jackets,2,Pittsburgh Penguins,5,,"18,585",2:28,,2017-04-20
+Boston Bruins,3,Ottawa Senators,2,2OT,"19,209",4:06,,2017-04-21
+Toronto Maple Leafs,1,Washington Capitals,2,OT,"18,506",2:59,,2017-04-21
+St. Louis Blues,4,Minnesota Wild,3,OT,"19,228",3:14,,2017-04-22
+Montreal Canadiens,1,New York Rangers,3,,"18,006",2:32,,2017-04-22
+Edmonton Oilers,3,San Jose Sharks,1,,"17,562",2:21,,2017-04-22
+Ottawa Senators,3,Boston Bruins,2,OT,"17,565",2:55,,2017-04-23
+Washington Capitals,2,Toronto Maple Leafs,1,OT,"19,740",2:59,,2017-04-23
+Edmonton Oilers,5,Anaheim Ducks,3,,"17,174",2:41,,2017-04-26
+Nashville Predators,4,St. Louis Blues,3,,"19,154",2:50,,2017-04-26
+New York Rangers,1,Ottawa Senators,2,,"16,744",2:33,,2017-04-27
+Pittsburgh Penguins,3,Washington Capitals,2,,"18,506",2:33,,2017-04-27
+Edmonton Oilers,2,Anaheim Ducks,1,,"17,174",2:37,,2017-04-28
+Nashville Predators,2,St. Louis Blues,3,,"19,506",2:31,,2017-04-28
+New York Rangers,5,Ottawa Senators,6,2OT,"18,679",3:46,,2017-04-29
+Pittsburgh Penguins,6,Washington Capitals,2,,"18,506",2:46,,2017-04-29
+Anaheim Ducks,6,Edmonton Oilers,3,,"18,347",2:42,,2017-04-30
+St. Louis Blues,1,Nashville Predators,3,,"17,220",2:36,,2017-04-30
+Washington Capitals,3,Pittsburgh Penguins,2,OT,"18,625",3:05,,2017-05-01
+St. Louis Blues,1,Nashville Predators,2,,"17,273",2:45,,2017-05-02
+Ottawa Senators,1,New York Rangers,4,,"18,006",2:27,,2017-05-02
+Anaheim Ducks,4,Edmonton Oilers,3,OT,"18,347",2:56,,2017-05-03
+Washington Capitals,2,Pittsburgh Penguins,3,,"18,617",2:35,,2017-05-03
+Ottawa Senators,1,New York Rangers,4,,"18,006",2:42,,2017-05-04
+Edmonton Oilers,3,Anaheim Ducks,4,2OT,"17,358",3:53,,2017-05-05
+Nashville Predators,1,St. Louis Blues,2,,"19,168",2:32,,2017-05-05
+New York Rangers,4,Ottawa Senators,5,OT,"19,082",3:08,,2017-05-06
+Pittsburgh Penguins,2,Washington Capitals,4,,"18,506",2:28,,2017-05-06
+Anaheim Ducks,1,Edmonton Oilers,7,,"18,347",2:46,,2017-05-07
+St. Louis Blues,1,Nashville Predators,3,,"17,240",2:31,,2017-05-07
+Washington Capitals,5,Pittsburgh Penguins,2,,"18,594",2:33,,2017-05-08
+Ottawa Senators,4,New York Rangers,2,,"18,006",2:27,,2017-05-09
+Edmonton Oilers,1,Anaheim Ducks,2,,"17,407",2:23,,2017-05-10
+Pittsburgh Penguins,2,Washington Capitals,0,,"18,506",2:26,,2017-05-10
+Nashville Predators,3,Anaheim Ducks,2,OT,"17,174",3:09,,2017-05-12
+Ottawa Senators,2,Pittsburgh Penguins,1,OT,"18,614",2:56,,2017-05-13
+Nashville Predators,3,Anaheim Ducks,5,,"17,174",2:40,,2017-05-14
+Ottawa Senators,0,Pittsburgh Penguins,1,,"18,610",2:32,,2017-05-15
+Anaheim Ducks,1,Nashville Predators,2,,"17,338",2:45,,2017-05-16
+Pittsburgh Penguins,1,Ottawa Senators,5,,"18,615",2:35,,2017-05-17
+Anaheim Ducks,3,Nashville Predators,2,OT,"17,423",3:13,,2017-05-18
+Pittsburgh Penguins,3,Ottawa Senators,2,,"19,145",2:32,,2017-05-19
+Nashville Predators,3,Anaheim Ducks,1,,"17,307",2:43,,2017-05-20
+Ottawa Senators,0,Pittsburgh Penguins,7,,"18,635",2:27,,2017-05-21
+Anaheim Ducks,3,Nashville Predators,6,,"17,352",2:44,,2017-05-22
+Pittsburgh Penguins,1,Ottawa Senators,2,,"18,111",2:48,,2017-05-23
+Ottawa Senators,2,Pittsburgh Penguins,3,2OT,"18,604",3:42,,2017-05-25
+Nashville Predators,3,Pittsburgh Penguins,5,,"18,618",2:39,,2017-05-29
+Nashville Predators,1,Pittsburgh Penguins,4,,"18,643",2:49,,2017-05-31
+Pittsburgh Penguins,1,Nashville Predators,5,,"17,283",2:42,,2017-06-03
+Pittsburgh Penguins,1,Nashville Predators,4,,"17,260",2:44,,2017-06-05
+Nashville Predators,0,Pittsburgh Penguins,6,,"18,605",2:35,,2017-06-08
+Pittsburgh Penguins,2,Nashville Predators,0,,"17,271",2:37,,2017-06-11

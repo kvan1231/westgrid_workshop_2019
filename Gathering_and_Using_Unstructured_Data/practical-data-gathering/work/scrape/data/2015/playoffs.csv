@@ -1,0 +1,90 @@
+visitor_team_name,visitor_goals,home_team_name,home_goals,overtimes,attendance,game_duration,game_remarks,date_game
+Ottawa Senators,3,Montreal Canadiens,4,,"21,287",,,2015-04-15
+Chicago Blackhawks,4,Nashville Predators,3,2OT,"17,225",,,2015-04-15
+Calgary Flames,2,Vancouver Canucks,1,,"18,870",,,2015-04-15
+New York Islanders,4,Washington Capitals,1,,"18,506",,,2015-04-15
+Winnipeg Jets,2,Anaheim Ducks,4,,"17,174",,,2015-04-16
+Pittsburgh Penguins,1,New York Rangers,2,,"18,006",,,2015-04-16
+Minnesota Wild,4,St. Louis Blues,2,,"19,671",,,2015-04-16
+Detroit Red Wings,3,Tampa Bay Lightning,2,,"19,204",,,2015-04-16
+Ottawa Senators,2,Montreal Canadiens,3,OT,"21,287",,,2015-04-17
+Chicago Blackhawks,2,Nashville Predators,6,,"17,208",,,2015-04-17
+Calgary Flames,1,Vancouver Canucks,4,,"18,870",,,2015-04-17
+New York Islanders,3,Washington Capitals,4,,"18,506",,,2015-04-17
+Winnipeg Jets,1,Anaheim Ducks,2,,"17,415",,,2015-04-18
+Pittsburgh Penguins,4,New York Rangers,3,,"18,006",,,2015-04-18
+Minnesota Wild,1,St. Louis Blues,4,,"19,243",,,2015-04-18
+Detroit Red Wings,1,Tampa Bay Lightning,5,,"19,204",,,2015-04-18
+Vancouver Canucks,2,Calgary Flames,4,,"19,289",,,2015-04-19
+Nashville Predators,2,Chicago Blackhawks,4,,"22,020",,,2015-04-19
+Washington Capitals,1,New York Islanders,2,OT,"16,170",,,2015-04-19
+Montreal Canadiens,2,Ottawa Senators,1,OT,"20,500",,,2015-04-19
+St. Louis Blues,0,Minnesota Wild,3,,"19,165",,,2015-04-20
+New York Rangers,2,Pittsburgh Penguins,1,,"18,645",,,2015-04-20
+Anaheim Ducks,5,Winnipeg Jets,4,OT,"15,016",,,2015-04-20
+Vancouver Canucks,1,Calgary Flames,3,,"19,289",,,2015-04-21
+Nashville Predators,2,Chicago Blackhawks,3,3OT,"22,014",,,2015-04-21
+Tampa Bay Lightning,0,Detroit Red Wings,3,,"20,027",,,2015-04-21
+Washington Capitals,2,New York Islanders,1,OT,"16,170",,,2015-04-21
+St. Louis Blues,6,Minnesota Wild,1,,"19,390",,,2015-04-22
+Montreal Canadiens,0,Ottawa Senators,1,,"20,500",,,2015-04-22
+New York Rangers,2,Pittsburgh Penguins,1,OT,"18,619",,,2015-04-22
+Anaheim Ducks,5,Winnipeg Jets,2,,"15,016",,,2015-04-22
+Tampa Bay Lightning,3,Detroit Red Wings,2,OT,"20,027",,,2015-04-23
+Chicago Blackhawks,2,Nashville Predators,5,,"17,238",,,2015-04-23
+Calgary Flames,1,Vancouver Canucks,2,,"18,870",,,2015-04-23
+New York Islanders,1,Washington Capitals,5,,"18,506",,,2015-04-23
+Ottawa Senators,5,Montreal Canadiens,1,,"21,287",,,2015-04-24
+Pittsburgh Penguins,1,New York Rangers,2,OT,"18,006",,,2015-04-24
+Minnesota Wild,4,St. Louis Blues,1,,"19,653",,,2015-04-24
+Vancouver Canucks,4,Calgary Flames,7,,"19,289",,,2015-04-25
+Nashville Predators,3,Chicago Blackhawks,4,,"22,171",,,2015-04-25
+Washington Capitals,1,New York Islanders,3,,"16,170",,,2015-04-25
+Detroit Red Wings,4,Tampa Bay Lightning,0,,"19,204",,,2015-04-25
+St. Louis Blues,1,Minnesota Wild,4,,"19,318",,,2015-04-26
+Montreal Canadiens,2,Ottawa Senators,0,,"20,500",,,2015-04-26
+Tampa Bay Lightning,5,Detroit Red Wings,2,,"20,027",,,2015-04-27
+New York Islanders,1,Washington Capitals,2,,"18,506",,,2015-04-27
+Detroit Red Wings,0,Tampa Bay Lightning,2,,"19,204",,,2015-04-29
+Calgary Flames,1,Anaheim Ducks,6,,"17,174",,,2015-04-30
+Washington Capitals,2,New York Rangers,1,,"18,006",,,2015-04-30
+Minnesota Wild,3,Chicago Blackhawks,4,,"21,851",,,2015-05-01
+Tampa Bay Lightning,2,Montreal Canadiens,1,2OT,"21,287",,,2015-05-01
+Washington Capitals,2,New York Rangers,3,,"18,006",,,2015-05-02
+Calgary Flames,0,Anaheim Ducks,3,,"17,299",,,2015-05-03
+Minnesota Wild,1,Chicago Blackhawks,4,,"21,934",,,2015-05-03
+Tampa Bay Lightning,6,Montreal Canadiens,2,,"21,287",,,2015-05-03
+New York Rangers,0,Washington Capitals,1,,"18,506",,,2015-05-04
+Anaheim Ducks,3,Calgary Flames,4,OT,"19,289",,,2015-05-05
+Chicago Blackhawks,1,Minnesota Wild,0,,"19,349",,,2015-05-05
+Montreal Canadiens,1,Tampa Bay Lightning,2,,"19,204",,,2015-05-06
+New York Rangers,1,Washington Capitals,2,,"18,506",,,2015-05-06
+Chicago Blackhawks,4,Minnesota Wild,3,,"19,163",,,2015-05-07
+Montreal Canadiens,6,Tampa Bay Lightning,2,,"19,204",,,2015-05-07
+Anaheim Ducks,4,Calgary Flames,2,,"19,289",,,2015-05-08
+Washington Capitals,1,New York Rangers,2,OT,"18,006",,,2015-05-08
+Tampa Bay Lightning,1,Montreal Canadiens,2,,"21,287",,,2015-05-09
+Calgary Flames,2,Anaheim Ducks,3,OT,"17,284",,,2015-05-10
+New York Rangers,4,Washington Capitals,3,,"18,506",,,2015-05-10
+Montreal Canadiens,1,Tampa Bay Lightning,4,,"19,204",,,2015-05-12
+Washington Capitals,1,New York Rangers,2,OT,"18,006",,,2015-05-13
+Tampa Bay Lightning,1,New York Rangers,2,,"18,006",,,2015-05-16
+Chicago Blackhawks,1,Anaheim Ducks,4,,"17,291",,,2015-05-17
+Tampa Bay Lightning,6,New York Rangers,2,,"18,006",,,2015-05-18
+Chicago Blackhawks,3,Anaheim Ducks,2,3OT,"17,234",,,2015-05-19
+New York Rangers,5,Tampa Bay Lightning,6,OT,"19,204",,,2015-05-20
+Anaheim Ducks,2,Chicago Blackhawks,1,,"22,160",,,2015-05-21
+New York Rangers,5,Tampa Bay Lightning,1,,"19,204",,,2015-05-22
+Anaheim Ducks,4,Chicago Blackhawks,5,2OT,"22,404",,,2015-05-23
+Tampa Bay Lightning,2,New York Rangers,0,,"18,006",,,2015-05-24
+Chicago Blackhawks,4,Anaheim Ducks,5,OT,"17,286",,,2015-05-25
+New York Rangers,7,Tampa Bay Lightning,3,,"19,204",,,2015-05-26
+Anaheim Ducks,2,Chicago Blackhawks,5,,"22,089",,,2015-05-27
+Tampa Bay Lightning,2,New York Rangers,0,,"18,006",,,2015-05-29
+Chicago Blackhawks,5,Anaheim Ducks,3,,"17,375",,,2015-05-30
+Chicago Blackhawks,2,Tampa Bay Lightning,1,,"19,204",,,2015-06-03
+Chicago Blackhawks,3,Tampa Bay Lightning,4,,"19,204",,,2015-06-06
+Tampa Bay Lightning,3,Chicago Blackhawks,2,,"22,336",,,2015-06-08
+Tampa Bay Lightning,1,Chicago Blackhawks,2,,"22,354",,,2015-06-10
+Chicago Blackhawks,2,Tampa Bay Lightning,1,,"19,204",,,2015-06-13
+Tampa Bay Lightning,0,Chicago Blackhawks,2,,"22,424",,,2015-06-15

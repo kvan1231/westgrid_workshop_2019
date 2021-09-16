@@ -1,0 +1,14 @@
+1. Access double drand48(void) function from libc to get a 100 random values.
+   https://www.gnu.org/software/libc/manual/html_mono/libc.html
+
+2. Use the Python version of the overlaps.py code and estimate the time to get (1000 1000000 0) run.
+   Based on the shorter runs.
+
+
+   Which stage of the script needs to be sped up? 
+
+3. Measure time with the C++ code and predict the times for 1 000 000 atoms.
+
+
+4. Write the third version of the C++ code with simple memory allocation on the C++ side.
+   Allocate 2N arrays, find overlaps, reallocate if needed.

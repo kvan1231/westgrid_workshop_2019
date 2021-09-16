@@ -1,0 +1,32 @@
+v1 = GetActiveView()
+print v1.CameraFocalPoint
+print v1.CenterOfRotation
+
+nframes = 360
+for i in range(nframes):
+    print v1.CameraPosition
+    camera.Azimuth(360./nframes)   # rotate by 1 degree
+    SaveScreenshot('/Users/razoumov/tmp/frame%04d'%(i)+'.png')
+
+ffmpeg -r 30 -i frame%04d.png -c:v libx264 -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" spin.mp4
+
+initialCameraPosition = v1.CameraPosition[:]   # force a real copy, not a pointer
+nframes = 100
+for i in range(nframes):
+    coef = float(i+0.5)/float(1.5*nframes)  # runs from 0 to 2/3
+    print coef, v1.CameraPosition
+    v1.CameraPosition = [((1.-coef)*a + coef*b) for a, b in zip(initialCameraPosition,v1.CameraFocalPoint)]
+    SaveScreenshot('/Users/razoumov/tmp/out%04d'%(i)+'.png')
+
+ffmpeg -r 30 -i out%04d.png -c:v libx264 -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" approach.mp4
+
+==========================================================================================
+squeue -u razoumov --start    # estimate start time
+
+cedar
+salloc --time=1:00:0 --ntasks=64 --mem-per-cpu=3500 --account=def-guest_cpu --reservation=hpc_school
+module load paraview-offscreen/5.3.0
+srun pvserver --use-offscreen-rendering
+
+laptop
+ssh razoumov@cedar.computecanada.ca -L 11111:cdr768:11111
